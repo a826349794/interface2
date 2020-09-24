@@ -1,0 +1,71 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1600854709255" stop="1600854710341">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1600854709255" status="passed" stop="1600854709404">
+      <name>test01_mp.TestMp.test01_mp_login[13812345678-246810]</name>
+      <attachments>
+        <attachment source="1386064d-e0ab-4c78-a76c-37e688b2259e-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="69fdd7cf-1540-4487-8291-12ff99a7b55d-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11372-MainThread"/>
+        <label name="host" value="PC-20200417ULTX"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1600854709427" status="passed" stop="1600854709492">
+      <name>test01_mp.TestMp.test02_mp_article</name>
+      <attachments>
+        <attachment source="a8ccdb49-86e6-4199-bf36-f4175b7d28d7-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11372-MainThread"/>
+        <label name="host" value="PC-20200417ULTX"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1600854709521" status="passed" stop="1600854709673">
+      <name>test02_mis.TestMis.test01_mis_login</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11372-MainThread"/>
+        <label name="host" value="PC-20200417ULTX"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1600854709714" status="passed" stop="1600854710181">
+      <name>test02_mis.TestMis.test02_mis_find</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11372-MainThread"/>
+        <label name="host" value="PC-20200417ULTX"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1600854710243" status="passed" stop="1600854710341">
+      <name>test02_mis.TestMis.test03_mis_audit</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11372-MainThread"/>
+        <label name="host" value="PC-20200417ULTX"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

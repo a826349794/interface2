@@ -1,0 +1,9 @@
+2020-09-22 18:28:32,191 INFO [api_mp.py(__init__:13)] - 正在初始化自媒体登录urlhttp://ttapi.research.itcast.cn/mp/v1_0/authorizations:
+2020-09-22 18:28:32,191 INFO [api_mp.py(__init__:16)] - 正在初始化自媒体发布文章urlhttp://ttapi.research.itcast.cn/mp/v1_0/articles:
+2020-09-22 18:28:32,192 INFO [api_mp.py(api_login:22)] - 正在调用自媒体登录方法,测试数据:{'mobile': '13812345678', 'code': '246810'}, 请求头为:api.headers{'Content-Type': 'application/json'}
+2020-09-22 18:28:32,246 INFO [api_mp.py(api_mp_article:39)] - 正在调用自媒体发布文章方法,测试数据:{'title': 'bj18-0021', 'content': '今日阳光明媚', 'channel_id': 7, 'cover': {'type': 0, 'images': []}}, 请求头为:api.headers{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MDA3NzgxNjAsInVzZXJfaWQiOjEzMDA0MDgxOTUxMDUxNjEyMTYsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.vDBfso05glzOAOtNmySrenyhMzm1ZZx8anZrUto6imQ'}
+2020-09-22 18:30:24,815 INFO [api_mp.py(__init__:13)] - 正在初始化自媒体登录urlhttp://ttapi.research.itcast.cn/mp/v1_0/authorizations:
+2020-09-22 18:30:24,815 INFO [api_mp.py(__init__:16)] - 正在初始化自媒体发布文章urlhttp://ttapi.research.itcast.cn/mp/v1_0/articles:
+2020-09-22 18:30:24,816 INFO [test01_mp.py(setup_class:15)] - 正在获取ApiMp对象:<api.api_mp.ApiMp object at 0x0000000004C94128>
+2020-09-22 18:30:24,816 INFO [api_mp.py(api_login:22)] - 正在调用自媒体登录方法,测试数据:{'mobile': '13812345678', 'code': '246810'}, 请求头为:api.headers{'Content-Type': 'application/json'}
+2020-09-22 18:30:24,860 INFO [api_mp.py(api_mp_article:39)] - 正在调用自媒体发布文章方法,测试数据:{'title': 'bj18-0021', 'content': '今日阳光明媚', 'channel_id': 7, 'cover': {'type': 0, 'images': []}}, 请求头为:api.headers{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MDA3NzgyNzIsInVzZXJfaWQiOjEzMDA0MDgxOTUxMDUxNjEyMTYsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.mehWudqV6lSrNfpxAiOYKGvMKrfKnwAKJS71JZgZZp0'}
