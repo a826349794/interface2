@@ -1,2 +1,0 @@
-[32mINFO    [0m root:api_mp.py:22 正在调用自媒体登录方法,测试数据:{'mobile': '13812345678', 'code': '246810'}, 请求头为:api.headers{'Content-Type': 'application/json'}
-[32mINFO    [0m root:test01_mp.py:21 正在调用登录接口:<Response [201]>

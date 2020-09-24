@@ -1,3 +1,0 @@
-[32mINFO    [0m root:api_mp.py:39 正在调用自媒体发布文章方法,测试数据:{'title': 'bj18-0021', 'content': '今日阳光明媚', 'channel_id': 7, 'cover': {'type': 0, 'images': []}}, 请求头为:api.headers{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MDA4NjIzNjAsInVzZXJfaWQiOjEzMDA0MDgxOTUxMDUxNjEyMTYsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.iQ2XQPxjhXWZh7MgJvYnI5fQGblxoYVnQN5_cztSjc8'}
-[32mINFO    [0m root:test01_mp.py:42 正在调用发布文章接口:<Response [201]>
-[32mINFO    [0m root:test01_mp.py:49 正在提取文章id:1308707516703571968
